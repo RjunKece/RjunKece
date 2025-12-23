@@ -51,15 +51,17 @@ dan membuat solusi yang rapi, efisien, dan realistis untuk dunia nyata.
 <h2 align="center">📊 GitHub Performance</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RjunKece&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RjunKece&theme=github_dark&hide_border=true"/>
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=RjunKece&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=RjunKece&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RjunKece&layout=compact&theme=github_dark&hide_border=true"/>
+  <img
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RjunKece&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<br/>
 
 <!-- FOCUS -->
 <h2>🎯 Current Focus</h2>
